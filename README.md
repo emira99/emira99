@@ -1,4 +1,4 @@
-- # I'm Emira Kechiche 👋
+# Hi 👋 I'm Emira Kechiche 
 ### Master's Student in Data Science Research 📊 💻
 
 🎓 Pursuing a Master's degree in Data Science
