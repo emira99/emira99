@@ -5,7 +5,7 @@
 🔍 Actively engaged in cutting-edge research to contribute to the field of data science.  
 
 ## 👩‍💻 Technical Skills
-- **Programming Languages:** Python, C, Dart, Java
+- **Programming Languages:** Python, R, Dart, Java
 - **Data Analysis:** Pandas
 - **Machine Learning:** TensorFlow
 - **Data Visualization:** Matplotlib, Microsoft Power BI, Tableau
